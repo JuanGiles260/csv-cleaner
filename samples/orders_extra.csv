@@ -1,0 +1,4 @@
+order id;customer name;e-mail;order date;amount
+1003;Li Wei;li@example.com;2026-09-05;45.00
+1004;María  Gómez;maria@example.com;2026-09-12;230.00
+1005; Tom Baker ;tom@example.com;2026-09-20;15.75
