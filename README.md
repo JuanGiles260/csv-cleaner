@@ -101,6 +101,10 @@ pytest
 I build data-cleaning scripts, Excel / Google Sheets automations and dashboards.
 Contact me on [Fiverr](https://www.fiverr.com/juangiles260).
 
+## More from Lean Grid Co.
+
+Running a small business on spreadsheets? The [Small Business Spreadsheet Bundle](https://juangiles260.github.io/small-business-bundle/) has six ready-to-use Excel and Google Sheets templates: inventory, invoices, bookkeeping, project Gantt, event budget and cash manager.
+
 ## License
 
 MIT
